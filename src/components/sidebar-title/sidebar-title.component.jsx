@@ -1,7 +1,7 @@
 // built-in imports
 import propsTypes from 'prop-types';
 // internal imports
-import { Wrapper } from './SideBarTitle.styles';
+import { Wrapper } from './sidebar-title.styles';
 
 const SideBarTitle = ({ title = 'title' }) => {
   return (
