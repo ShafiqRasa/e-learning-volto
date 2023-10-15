@@ -1,11 +1,10 @@
-import { Wrapper } from './header.styles';
-import Logo from '../../../../icons/logo.png';
+import { Wrapper, Logo } from './header.styles';
+import logo from '../../../../icons/logo.png';
 
 const Header = () => {
   return (
     <Wrapper>
-      <img src={Logo} alt="logo" />
-      {/* <Logo src={Logo} alt="e-learning logo" /> */}
+      <Logo src={logo} alt="e-learning logo" />
     </Wrapper>
   );
 };
