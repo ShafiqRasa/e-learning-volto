@@ -1,13 +1,13 @@
 // internal imports
 import { Wrapper, StickyContainer } from './side-bar.component.styles';
-import { Navigation } from 'components';
+import { Navigation, Contact } from 'components';
 
 const SideBar = () => {
   return (
     <Wrapper>
       <StickyContainer>
         <Navigation />
-        {/* <Contact /> */}
+        <Contact />
       </StickyContainer>
     </Wrapper>
   );
