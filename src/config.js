@@ -18,5 +18,7 @@ import '@plone/volto/config';
 
 export default function applyConfig(config) {
   // Add here your project's configuration here by modifying `config` accordingly
+  config.blocks.requiredBlocks = []; // make the title from the default page deletable!!!
+
   return config;
 }
