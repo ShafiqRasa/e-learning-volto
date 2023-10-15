@@ -15,7 +15,8 @@ export const Section = styled.div`
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
-  background-color: #fff;
+  background-color: white;
+  border: 1px solid #676767;
   border-radius: 0.25rem;
   overflow: hidden;
   .route {

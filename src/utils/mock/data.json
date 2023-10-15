@@ -1,0 +1,193 @@
+{
+  "title": "e-learning available courses",
+  "result": [
+    {
+      "id": 1,
+      "category": "Money Laundering and Fraud Prevention",
+      "icon": "fraud_prevention.png",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Intensification of money laundering prevention private customer advised",
+          "instructor": "Mr. Deban ",
+          "duration": 5,
+          "lectures": 111,
+          "progress": 2,
+          "rating": 4.7,
+          "status": "Bestseller"
+        },
+        {
+          "id": 2,
+          "title": "Basic training prevention of money learning and terrorist financing",
+          "instructor": "Ms. Sara ",
+          "duration": 5,
+          "lectures": 101,
+          "progress": 1,
+          "rating": 3.7,
+          "status": "Bestseller"
+        },
+        {
+          "id": 3,
+          "title": "Advanced training prevention of money laundering and tour race financing",
+          "instructor": "Mr. Hamian ",
+          "duration": 5,
+          "lectures": 99,
+          "progress": 2,
+          "rating": 1.7,
+          "status": "Bestseller"
+        },
+        {
+          "id": 4,
+          "title": "Advanced training prevention of money laundering and tour race financing",
+          "instructor": "Mr. Yodimi ",
+          "duration": 5,
+          "lectures": 88,
+          "progress": 0,
+          "rating": 2.7,
+          "status": "Bestseller"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "IT Secourity and Information Secourity",
+      "icon": "it_security.png",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Information Security Management Fundamentals for Non-Techies",
+          "instructor": "Mr. Modim ",
+          "duration": 5,
+          "lectures": 121,
+          "progress": 1,
+          "rating": 2.7,
+          "status": "Bestseller"
+        },
+        {
+          "id": 2,
+          "title": "Information Security for beginners and intermediate Level",
+          "instructor": "Mr. Jedam ",
+          "duration": 5,
+          "lectures": 70,
+          "progress": 1,
+          "rating": 4.2,
+          "status": "Bestseller"
+        },
+        {
+          "id": 3,
+          "title": "The Complete Certified in Cybersecurity (CC) course ISC2 '23",
+          "instructor": "Mr. Jedann ",
+          "duration": 5,
+          "lectures": 100,
+          "progress": 0,
+          "rating": 4.9,
+          "status": "Bestseller"
+        },
+        {
+          "id": 4,
+          "title": "Certified Information Security Manager (CISM)",
+          "instructor": "Mr. Andre ",
+          "duration": 5,
+          "lectures": 88,
+          "progress": 0,
+          "rating": 4.7,
+          "status": "Bestseller"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Data Protection",
+      "icon": "data_protection.png",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Build EU GDPR data protection compliance from scratch (CIPT)",
+          "instructor": "Mr. Neman ",
+          "duration": 5,
+          "lectures": 121,
+          "progress": 0,
+          "rating": 1.7,
+          "status": "Bestseller"
+        },
+        {
+          "id": 2,
+          "title": "Privacy and Data Protection, Certified GDPR Compliance",
+          "instructor": "Ms. Nedam ",
+          "duration": 5,
+          "lectures": 70,
+          "progress": 1,
+          "rating": 2.5,
+          "status": "Bestseller"
+        },
+        {
+          "id": 3,
+          "title": "GDPR Privacy Data Protection CASE STUDIES (CIPT,CIPM, CIPP)",
+          "instructor": "Mr. Yohan ",
+          "duration": 5,
+          "lectures": 90,
+          "progress": 0,
+          "rating": 4.9,
+          "status": "Bestseller"
+        },
+        {
+          "id": 4,
+          "title": "Data Protection Officer - Foundation Course [CT-DPO]",
+          "instructor": "Mr. Nandra ",
+          "duration": 5,
+          "lectures": 88,
+          "progress": 0,
+          "rating": 4.7,
+          "status": "Bestseller"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "WpHG-Compliance",
+      "icon": "wphg.png",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Anti-Money Laundering Concepts: AML, KYC and Compliance",
+          "instructor": "Mr. Moram ",
+          "duration": 5,
+          "lectures": 121,
+          "progress": 1,
+          "rating": 2.7,
+          "status": "Bestseller"
+        },
+        {
+          "id": 2,
+          "title": "Introduction to Regulatory Compliance",
+          "instructor": "Ms. Boidan ",
+          "duration": 5,
+          "lectures": 70,
+          "progress": 1,
+          "rating": 4.5,
+          "status": "Bestseller"
+        },
+        {
+          "id": 3,
+          "title": "Fundamentals of Compliance and Compliance Governance Model",
+          "instructor": "Mr. Yohan ",
+          "duration": 5,
+          "lectures": 90,
+          "progress": 0,
+          "rating": 3.9,
+          "status": "Bestseller"
+        },
+        {
+          "id": 4,
+          "title": "Introduction to Compliance Risk Management CRM",
+          "instructor": "Ms. Merom ",
+          "duration": 5,
+          "lectures": 88,
+          "progress": 2,
+          "rating": 2.7,
+          "status": "Bestseller"
+        }
+      ]
+    }
+  ]
+}

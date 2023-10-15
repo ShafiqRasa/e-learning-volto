@@ -4,7 +4,7 @@
  */
 
 import defaultReducers from '@plone/volto/reducers';
-
+import courses from './course/course';
 /**
  * Root reducer.
  * @function
@@ -14,7 +14,7 @@ import defaultReducers from '@plone/volto/reducers';
  */
 const reducers = {
   ...defaultReducers,
-  // Add your reducers here
+  courses,
 };
 
 export default reducers;
