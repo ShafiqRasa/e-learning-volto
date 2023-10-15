@@ -134,7 +134,8 @@
     "node": "^16 || ^18 || ^20"
   },
   "dependencies": {
-    "@plone/volto": "17.1.1"
+    "@plone/volto": "17.1.1",
+    "styled-components": "6.1.0"
   },
   "devDependencies": {
     "@plone/scripts": "^3.0.0",
