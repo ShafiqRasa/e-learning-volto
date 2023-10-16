@@ -1,7 +1,7 @@
 // built-in imports
 import { useSelector } from 'react-redux';
 import styled from 'styled-components';
-import { Category } from 'components';
+import { Category } from '../index';
 
 const Title = styled.h1`
   margin-bottom: 1.5rem;
