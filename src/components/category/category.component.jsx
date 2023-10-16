@@ -1,6 +1,6 @@
 import propTypes from 'prop-types';
 import { Wrapper, Container } from './category.styles';
-import { Course } from 'components';
+import { Course } from '../index';
 
 const Category = ({ icon = 'icon', courses = [] }) => {
   return (

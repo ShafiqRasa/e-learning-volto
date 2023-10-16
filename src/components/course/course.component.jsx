@@ -6,7 +6,7 @@ import {
   Button,
   RatingContainer,
 } from './course.styles';
-import { RednerDemo } from 'components';
+import { RednerDemo } from '../index';
 
 const Course = ({ id, title, duration, progress, rating, instructor, len }) => {
   return (

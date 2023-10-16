@@ -1,4 +1,4 @@
-import { SideBarTitle, ContactCard } from 'components';
+import { SideBarTitle, ContactCard } from '../index';
 import { Wrapper } from './contact.styles';
 import { contactInfos } from '../../utils';
 

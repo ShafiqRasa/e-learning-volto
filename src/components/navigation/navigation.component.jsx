@@ -1,5 +1,5 @@
 // internal imports
-import { NavigationCard, SideBarTitle } from 'components';
+import { NavigationCard, SideBarTitle } from '../index';
 import { Wrapper } from './navigation.styles';
 import { navigations } from '../../utils';
 
